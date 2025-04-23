@@ -1,0 +1,1 @@
+Interfaces gráficas, canvas, health bars

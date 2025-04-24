@@ -1,79 +1,79 @@
 fileFormatVersion: 2
-guid: 1bf01a7ecfb6463479f915bfd3587975
+guid: ac1b89dd327bba7438f75f5fc668f8dc
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7441861488978599509
-    second: Attack2_0
+      213: -5737278161617249216
+    second: Idle_Mago_0
   - first:
-      213: 8288915215451595207
-    second: Attack2_1
+      213: -1558840858923031706
+    second: Idle_Mago_1
   - first:
-      213: 4668938655123782945
-    second: Attack2_2
+      213: -7783155298581124346
+    second: Idle_Mago_2
   - first:
-      213: 5683539909772271658
-    second: Attack2_3
+      213: -4450381093129820571
+    second: Idle_Mago_3
   - first:
-      213: 5764228812365489207
-    second: Attack2_4
+      213: 5379240800905441266
+    second: Idle_Mago_4
   - first:
-      213: -1191510351576865934
-    second: Attack2_5
+      213: -5686184191500100526
+    second: Idle_Mago_5
   - first:
-      213: -8937499057154260928
-    second: Attack2_6
+      213: 8250185603613271372
+    second: Idle_Mago_6
   - first:
-      213: 5293088307283036655
-    second: Attack2_7
+      213: -3581149605326216943
+    second: Idle_Mago_7
   - first:
-      213: 1817195990524489003
-    second: Attack2_8
+      213: 3905549819731641585
+    second: Idle_Mago_8
   - first:
-      213: 9220252021294270350
-    second: Attack2_9
+      213: -4522636904180701814
+    second: Idle_Mago_9
   - first:
-      213: 3493322121590164450
-    second: Attack2_10
+      213: 9120602688784288099
+    second: Idle_Mago_10
   - first:
-      213: 1270503724755275024
-    second: Attack2_11
+      213: -760427647952008933
+    second: Idle_Mago_11
   - first:
-      213: -6630625727208620370
-    second: Attack2_12
+      213: 535957097560371211
+    second: Idle_Mago_12
   - first:
-      213: 6597481699637694506
-    second: Attack2_13
+      213: -2946026425599073846
+    second: Idle_Mago_13
   - first:
-      213: -2963747826654121326
-    second: Attack2_14
+      213: 2485123506639649719
+    second: Idle_Mago_14
   - first:
-      213: 1001699015705876451
-    second: Attack2_15
+      213: 53291723399071891
+    second: Idle_Mago_15
   - first:
-      213: -380923670986178931
-    second: Attack2_16
+      213: 8074505285838093438
+    second: Idle_Mago_16
   - first:
-      213: -5305258693565426061
-    second: Attack2_17
+      213: -9181737295050097235
+    second: Idle_Mago_17
   - first:
-      213: 5515139265301771484
-    second: Attack2_18
+      213: -1621500840454778881
+    second: Idle_Mago_18
   - first:
-      213: -1533618607347848689
-    second: Attack2_19
+      213: 154409923714529151
+    second: Idle_Mago_19
   - first:
-      213: 736642909900040537
-    second: Attack2_20
+      213: 6952836106743706548
+    second: Idle_Mago_20
   - first:
-      213: -1464732610065572743
-    second: Attack2_21
+      213: -6247160304654704161
+    second: Idle_Mago_21
   - first:
-      213: 17666572562957988
-    second: Attack2_22
+      213: -8027896242300893035
+    second: Idle_Mago_22
   - first:
-      213: -9069005376974558685
-    second: Attack2_23
+      213: 2816237968804280725
+    second: Idle_Mago_23
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -106,7 +106,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -122,7 +122,7 @@ TextureImporter:
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spriteGenerateFallbackPhysicsShape: 1
+  spriteGenerateFallbackPhysicsShape: 0
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
@@ -141,10 +141,10 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 4096
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -165,533 +165,559 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Attack2_0
+      name: Idle_Mago_0
       rect:
         serializedVersion: 2
-        x: 1575
-        y: 133
-        width: 11
-        height: 13
+        x: 0
+        y: 3200
+        width: 800
+        height: 800
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 55e9a36789dc64760800000000000000
-      internalID: 7441861488978599509
+      spriteID: 4b2d1b3cfced42e448df62acfad15f8f
+      internalID: -881321024
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack2_1
+      name: Idle_Mago_1
       rect:
         serializedVersion: 2
-        x: 1583
-        y: 125
-        width: 21
-        height: 18
+        x: 800
+        y: 3200
+        width: 800
+        height: 800
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 7c1a25ec874280370800000000000000
-      internalID: 8288915215451595207
+      spriteID: 6473e8cc79ebaf943905f7e1d0e2a6c5
+      internalID: -948766125
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack2_2
+      name: Idle_Mago_2
       rect:
         serializedVersion: 2
-        x: 1809
-        y: 143
-        width: 12
-        height: 12
+        x: 1600
+        y: 3200
+        width: 800
+        height: 800
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 12d3eb048f66bc040800000000000000
-      internalID: 4668938655123782945
+      spriteID: 9c7691483e70c5b48aacae8bfb00058c
+      internalID: -1486616127
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack2_3
+      name: Idle_Mago_3
       rect:
         serializedVersion: 2
-        x: 1832
-        y: 133
-        width: 10
-        height: 16
+        x: 2400
+        y: 3200
+        width: 800
+        height: 800
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: a206bbc6f6dffde40800000000000000
-      internalID: 5683539909772271658
+      spriteID: eae3c2178ec540e4c86acec03561e1c3
+      internalID: -986874127
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack2_4
+      name: Idle_Mago_4
       rect:
         serializedVersion: 2
-        x: 85
-        y: 48
-        width: 84
-        height: 81
+        x: 3200
+        y: 3200
+        width: 800
+        height: 800
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 734ed1d8097aeff40800000000000000
-      internalID: 5764228812365489207
+      spriteID: 26b9dbc8f41a6024ebf009659fa76b70
+      internalID: 1569180090
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack2_5
+      name: Idle_Mago_5
       rect:
         serializedVersion: 2
-        x: 316
-        y: 48
-        width: 68
-        height: 86
+        x: 0
+        y: 2400
+        width: 800
+        height: 800
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 2736f0ce5a7e67fe0800000000000000
-      internalID: -1191510351576865934
+      spriteID: a1614507c79f7074d9dfc40d6e0bc8ee
+      internalID: -1478810327
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack2_6
+      name: Idle_Mago_6
       rect:
         serializedVersion: 2
-        x: 539
-        y: 48
-        width: 78
-        height: 89
+        x: 800
+        y: 2400
+        width: 800
+        height: 800
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 0408eedd5ff97f380800000000000000
-      internalID: -8937499057154260928
+      spriteID: a0506d3387f4cd14f890486cfcd3a864
+      internalID: 943672406
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack2_7
+      name: Idle_Mago_7
       rect:
         serializedVersion: 2
-        x: 782
-        y: 48
-        width: 83
-        height: 86
+        x: 1600
+        y: 2400
+        width: 800
+        height: 800
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: fe9016085c3d47940800000000000000
-      internalID: 5293088307283036655
+      spriteID: c292d5264f8e14c428e118dbc89b404b
+      internalID: 1515809070
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack2_8
+      name: Idle_Mago_8
       rect:
         serializedVersion: 2
-        x: 1013
-        y: 48
-        width: 98
-        height: 90
+        x: 2400
+        y: 2400
+        width: 800
+        height: 800
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: b2de97e102af73910800000000000000
-      internalID: 1817195990524489003
+      spriteID: 25c54274ce1e1454fa4ddae7b7546cc5
+      internalID: 255452118
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack2_9
+      name: Idle_Mago_9
       rect:
         serializedVersion: 2
-        x: 1244
-        y: 48
-        width: 132
-        height: 88
+        x: 3200
+        y: 2400
+        width: 800
+        height: 800
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: e8782d4cc5ae4ff70800000000000000
-      internalID: 9220252021294270350
+      spriteID: 5df46c3a3176a33429921501c9454db9
+      internalID: 897464244
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack2_10
+      name: Idle_Mago_10
       rect:
         serializedVersion: 2
-        x: 1475
-        y: 48
-        width: 82
-        height: 90
+        x: 0
+        y: 1600
+        width: 800
+        height: 800
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 2eb456f06f5ca7030800000000000000
-      internalID: 3493322121590164450
+      spriteID: 26fe56f6310ca824da6b4daaadfbc908
+      internalID: -537102782
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack2_11
+      name: Idle_Mago_11
       rect:
         serializedVersion: 2
-        x: 1547
-        y: 94
-        width: 64
-        height: 32
+        x: 800
+        y: 1600
+        width: 800
+        height: 800
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 01d49dff76cb1a110800000000000000
-      internalID: 1270503724755275024
+      spriteID: c4b7f40a891c58947bd486006ca01ad2
+      internalID: 146199457
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack2_12
+      name: Idle_Mago_12
       rect:
         serializedVersion: 2
-        x: 1706
-        y: 48
-        width: 76
-        height: 93
+        x: 1600
+        y: 1600
+        width: 800
+        height: 800
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: eaef92b18094bf3a0800000000000000
-      internalID: -6630625727208620370
+      spriteID: 6c3cc16ee75f49b48b4557bae9b94950
+      internalID: 1191861238
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack2_13
+      name: Idle_Mago_13
       rect:
         serializedVersion: 2
-        x: 1781
-        y: 122
-        width: 10
-        height: 13
+        x: 2400
+        y: 1600
+        width: 800
+        height: 800
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: a209b0f96a6fe8b50800000000000000
-      internalID: 6597481699637694506
+      spriteID: 82e75172c15229348be4b91c25a1dbde
+      internalID: -21035042
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack2_14
+      name: Idle_Mago_14
       rect:
         serializedVersion: 2
-        x: 1808
-        y: 109
-        width: 8
-        height: 17
+        x: 3200
+        y: 1600
+        width: 800
+        height: 800
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 292f174ed07aed6d0800000000000000
-      internalID: -2963747826654121326
+      spriteID: 501a4d29d8eb03d48b364236bdd03126
+      internalID: -608103729
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack2_15
+      name: Idle_Mago_15
       rect:
         serializedVersion: 2
-        x: 382
-        y: 103
-        width: 15
-        height: 12
+        x: 0
+        y: 800
+        width: 800
+        height: 800
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 3e7d10392ffb6ed00800000000000000
-      internalID: 1001699015705876451
+      spriteID: 10dd2fb20677d0442bc5452608e3dd4b
+      internalID: 1743761919
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack2_16
+      name: Idle_Mago_16
       rect:
         serializedVersion: 2
-        x: 1793
-        y: 106
-        width: 16
-        height: 13
+        x: 800
+        y: 800
+        width: 800
+        height: 800
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: d8eb45080ffa6baf0800000000000000
-      internalID: -380923670986178931
+      spriteID: 2ecfd9bab15154549ae8d40baab7d6db
+      internalID: -1560694434
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack2_17
+      name: Idle_Mago_17
       rect:
         serializedVersion: 2
-        x: 1794
-        y: 91
-        width: 24
-        height: 16
+        x: 1600
+        y: 800
+        width: 800
+        height: 800
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 376da70a35fef56b0800000000000000
-      internalID: -5305258693565426061
+      spriteID: bec749214f6466c478fef6c17faa13d9
+      internalID: 1154357519
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack2_18
+      name: Idle_Mago_18
       rect:
         serializedVersion: 2
-        x: 1820
-        y: 100
-        width: 28
-        height: 19
+        x: 2400
+        y: 800
+        width: 800
+        height: 800
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: cd4fe1bf0f5b98c40800000000000000
-      internalID: 5515139265301771484
+      spriteID: 27e12166c62fc8040935d1482afb408a
+      internalID: 229263428
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack2_19
+      name: Idle_Mago_19
       rect:
         serializedVersion: 2
-        x: 1559
-        y: 89
-        width: 17
-        height: 9
+        x: 3200
+        y: 800
+        width: 800
+        height: 800
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: f0a2a18800e77bae0800000000000000
-      internalID: -1533618607347848689
+      spriteID: d015ff2c50a8b9e4da5cfd46ec5dc92b
+      internalID: 1451752211
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack2_20
+      name: Idle_Mago_20
       rect:
         serializedVersion: 2
-        x: 1577
-        y: 83
-        width: 9
-        height: 12
+        x: 0
+        y: 0
+        width: 800
+        height: 800
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 959e6ead2d4193a00800000000000000
-      internalID: 736642909900040537
+      spriteID: 05a092a0c70eb5e498440ed316302cb0
+      internalID: -1237560432
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack2_21
+      name: Idle_Mago_21
       rect:
         serializedVersion: 2
-        x: 1587
-        y: 89
-        width: 13
-        height: 12
+        x: 800
+        y: 0
+        width: 800
+        height: 800
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 97c5c1e93793cabe0800000000000000
-      internalID: -1464732610065572743
+      spriteID: 802d0481c865d9844ac57961eb27898b
+      internalID: 1761784270
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack2_22
+      name: Idle_Mago_22
       rect:
         serializedVersion: 2
-        x: 1801
-        y: 82
-        width: 12
-        height: 8
+        x: 1600
+        y: 0
+        width: 800
+        height: 800
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 4a6830677a3ce3000800000000000000
-      internalID: 17666572562957988
+      spriteID: 751bde43d37cd4742b01f0a33740d162
+      internalID: 1426820623
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack2_23
+      name: Idle_Mago_23
       rect:
         serializedVersion: 2
-        x: 1827
-        y: 86
-        width: 10
-        height: 13
+        x: 2400
+        y: 0
+        width: 800
+        height: 800
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 32ae257c8ab642280800000000000000
-      internalID: -9069005376974558685
+      spriteID: dd325954fbae09b4fb126ae21942c460
+      internalID: -42728916
       vertices: []
       indices: 
       edges: []
@@ -700,7 +726,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: f4f1273176cbe3c47b2c7def60ebb35b
     internalID: 0
     vertices: []
     indices: 
@@ -710,30 +736,30 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Attack2_0: 7441861488978599509
-      Attack2_1: 8288915215451595207
-      Attack2_10: 3493322121590164450
-      Attack2_11: 1270503724755275024
-      Attack2_12: -6630625727208620370
-      Attack2_13: 6597481699637694506
-      Attack2_14: -2963747826654121326
-      Attack2_15: 1001699015705876451
-      Attack2_16: -380923670986178931
-      Attack2_17: -5305258693565426061
-      Attack2_18: 5515139265301771484
-      Attack2_19: -1533618607347848689
-      Attack2_2: 4668938655123782945
-      Attack2_20: 736642909900040537
-      Attack2_21: -1464732610065572743
-      Attack2_22: 17666572562957988
-      Attack2_23: -9069005376974558685
-      Attack2_3: 5683539909772271658
-      Attack2_4: 5764228812365489207
-      Attack2_5: -1191510351576865934
-      Attack2_6: -8937499057154260928
-      Attack2_7: 5293088307283036655
-      Attack2_8: 1817195990524489003
-      Attack2_9: 9220252021294270350
+      Idle_Mago_0: -881321024
+      Idle_Mago_1: -948766125
+      Idle_Mago_10: -537102782
+      Idle_Mago_11: 146199457
+      Idle_Mago_12: 1191861238
+      Idle_Mago_13: -21035042
+      Idle_Mago_14: -608103729
+      Idle_Mago_15: 1743761919
+      Idle_Mago_16: -1560694434
+      Idle_Mago_17: 1154357519
+      Idle_Mago_18: 229263428
+      Idle_Mago_19: 1451752211
+      Idle_Mago_2: -1486616127
+      Idle_Mago_20: -1237560432
+      Idle_Mago_21: 1761784270
+      Idle_Mago_22: 1426820623
+      Idle_Mago_23: -42728916
+      Idle_Mago_3: -986874127
+      Idle_Mago_4: 1569180090
+      Idle_Mago_5: -1478810327
+      Idle_Mago_6: 943672406
+      Idle_Mago_7: 1515809070
+      Idle_Mago_8: 255452118
+      Idle_Mago_9: 897464244
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

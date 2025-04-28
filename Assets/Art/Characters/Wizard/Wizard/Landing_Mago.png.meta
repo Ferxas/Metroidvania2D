@@ -435,7 +435,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Landing_Mago_0: 2655278708616589864
+      Landing_Mago_1: 487143228318273921
+      Landing_Mago_10: -6425534585178674310
+      Landing_Mago_11: 7776348906476323376
+      Landing_Mago_2: 100727169843027028
+      Landing_Mago_3: 8266038955577087698
+      Landing_Mago_4: 6495718604059623517
+      Landing_Mago_5: -1638605113852863392
+      Landing_Mago_6: -1099156331977678383
+      Landing_Mago_7: -7924270916853317638
+      Landing_Mago_8: 332542034279415826
+      Landing_Mago_9: -2123054668008698291
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

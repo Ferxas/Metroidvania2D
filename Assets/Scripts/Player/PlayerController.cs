@@ -54,14 +54,21 @@ public class PlayerController : MonoBehaviour
 
         Flip(moveInput.x);
 
+        // Some animations
+        animator?.SetFloat("Speed", Mathf.Abs(moveInput.x));
+        animator?.SetBool("isJumping", !IsGrounded());
+        animator?.SetBool("isFalling", rb.linearVelocity.y < -0.1f);
+
+        if (!isJumping && IsGrounded() && rb.linearVelocity.y <= 0.1f)
+        {
+            animator?.SetTrigger("Land");
+        }
+
         if (isLevitating && stats.currentMana > 0)
         {
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, levitateForce);
             stats.UseMana(Time.deltaTime * 5f);
         }
-
-        animator?.SetFloat("Speed", Mathf.Abs(rb.linearVelocity.x));
-        animator?.SetBool("isJumping", !IsGrounded());
     }
 
     private void FixedUpdate()

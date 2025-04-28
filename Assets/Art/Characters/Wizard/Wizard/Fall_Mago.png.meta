@@ -435,7 +435,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Fall_Mago_0: -1520719922905721925
+      Fall_Mago_1: -1419401866188363599
+      Fall_Mago_10: -7488337503088790441
+      Fall_Mago_11: 1315990710775701151
+      Fall_Mago_2: 7384380284436198735
+      Fall_Mago_3: 5493912245809959462
+      Fall_Mago_4: -4565929547588803637
+      Fall_Mago_5: -1866854068082256890
+      Fall_Mago_6: -1605944397518169670
+      Fall_Mago_7: -6564286536343499490
+      Fall_Mago_8: -8226654164746236947
+      Fall_Mago_9: -2462138555133336815
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
